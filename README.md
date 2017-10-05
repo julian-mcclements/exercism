@@ -1,1 +1,1 @@
-# exercism
+My solutions for practice problems on Exercism (http://exercism.io/).
